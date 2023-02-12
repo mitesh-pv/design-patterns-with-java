@@ -1,4 +1,7 @@
 # Creational Design Pattern
 
 1. [Singleton](./src/main/java/org/singleton/)
-2. [Factory Pattern](./src/main/java/org/factory/)
+2. [Factory](./src/main/java/org/factory/)
+3. [Abstract Factory](./src/main/java/org/abstractfactory)
+4. [Builder](./src/main/java/org/builder)
+5. [Prototype](./src/main/java/org/prototype)
